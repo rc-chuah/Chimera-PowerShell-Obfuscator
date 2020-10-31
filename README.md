@@ -16,7 +16,7 @@ Chimera PowerShell Obfuscator
 5. Run script `./chimera-offline.sh /path/to/input.ps1 /path/to/output.ps1`
 
 ## So What's Are The Difference Between Chimera Online Version And Chimera Offline Version
-The Difference Of The Online Version Of Chimera It Will Need Internet Access Every Time When You Run That Script.
-The Difference Of The Offline Version Of Chimera It Will Need Internet Access Only Once When You Run That Script Then After That You Don't Need Internet Access To Run That Script.
+#### The Difference Of The Online Version Of Chimera It Will Need Internet Access Every Time When You Run That Script.
+#### The Difference Of The Offline Version Of Chimera It Will Need Internet Access Only Once When You Run That Script Then After That You Don't Need Internet Access To Run That Script.
 
 
