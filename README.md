@@ -19,4 +19,12 @@ Chimera PowerShell Obfuscator
 #### The Difference Of The Online Version Of Chimera It Will Need Internet Access Every Time When You Run That Script.
 #### The Difference Of The Offline Version Of Chimera It Will Need Internet Access Only Once When You Run That Script Then After That You Don't Need Internet Access To Run That Script.
 
+## Quiet Mode
+### How To Use Quiet Mode Chimera Online Version
+1. Run script `./chimera-online.sh /path/to/input.ps1 /path/to/output.ps1 -q`
+### How To Use Quiet Mode Chimera Offline Version
+1. Run script `./chimera-offline.sh /path/to/input.ps1 /path/to/output.ps1 -q`
 
+## Credits To The Original Creator:
+
+Thanks To tokyoneon
